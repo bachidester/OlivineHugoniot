@@ -1,40 +1,41 @@
-﻿Study,Platform,Sample #,Experiment,Sample Us,Us err,Sample Up,Up err,Sample P,Sample P err,Density,rho err,Sample T,T err,Used in Us-up fit? (Y/N)
-This Study,Z,3327-S02,Stagnation,17.86,0.16,9.26,0.06,554,5,6.96,0.1,ND,,Y
-This Study,Z,3327-S03,Stagnation,17.87,0.09,9.24,0.06,553,4,6.94,0.07,ND,,Y
-This Study,Z,3327-S05,Stagnation,17.81,0.13,9.24,0.06,551,4,6.96,0.09,ND,,Y
-This Study,Z,3327-S06,Stagnation,17.8,0.1,9.23,0.06,551,4,6.96,0.08,ND,,Y
-This Study,Z,3101-N05,Steady Shock,13.32,0.27,5.93,0.06,265,3,6.05,0.15,ND,,Y
-This Study,Z,3101-S03,Steady Shock,14.15,0.41,6.27,0.15,297,8,6.03,0.23,ND,,Y
-This Study,Z,3172-N06,Steady Shock,16.62,0.16,8.22,0.06,457,4,6.63,0.1,ND,,Y
-This Study,Z,3172-S06,Steady Shock,17.32,0.11,8.83,0.06,512,4,6.83,0.08,ND,,Y
-This Study,Z,3201-N06,Steady Shock,18.91,0.1,9.84,0.07,623,5,6.99,0.09,ND,,Y
-This Study,Z,3201-S06,Steady Shock,19.92,0.2,10.53,0.08,703,6,7.11,0.12,ND,,Y
-This Study,Z,3327-S01,Steady Shock,18.03,0.09,9.24,0.06,558,4,6.88,0.07,ND,,Y
-this Study,Z,3543-S01,Steady Shock,19.6,0.24,10.35,0.08,680,6,7.11,0.14,ND,,Y
-This Study,Z,3543-S02,Steady Shock,19.5,0.24,10.4,0.08,679,7,7.18,0.15,ND,,Y
-This Study,Z,3543-S07,Shock and release,20,0.4,10.72,0.12,717,11,7.24,0.21,25374,1229,Y
-This Study,Omega EP,30744,Decaying shock,24.03,0.25,14,0.27,1125,23,8,0.26,ND,,Y
-This Study,Omega EP,30747,Decaying shock,26.97,0.12,16.1,0.14,1454,14,8.3,0.13,ND,,Y
-This Study,Omega EP,30750,Decaying shock,16.85,0.09,8.6,0.08,485,5,6.84,0.08,ND,,Y
-This Study,Omega EP,30753,Decaying shock,16.15,0.09,7.9,0.08,427,5,6.56,0.08,ND,,Y
-This Study,Omega EP,31844,Decaying shock,25.16,0.11,14.4,0.12,1217,11,7.86,0.11,ND,,Y
-This Study,Omega EP,31849,Decaying shock,21.16,0.1,11.5,0.1,816,8,7.35,0.09,ND,,Y
-This Study,Omega EP,31854,Decaying shock,19.35,0.09,10.1,0.1,658,7,7.04,0.09,ND,,Y
-This Study,Omega EP,31859,Decaying shock,22.08,0.1,12.1,0.11,894,9,7.4,0.1,ND,,Y
-Luo et al (2004),gas gun,245,Steady Shock,11.46,0.16,4.89,0.15,188,6,5.86,0.15,ND,,Y
-Furnish and Brown (1986),gas gun,2/1A,Steady Shock,11.63,0.02,4.97,0.02,193,1,5.84,0.02,ND,,Y
-Furnish and Brown (1986),gas gun,1/1*,Steady Shock,11.53,0.02,4.98,0.02,192,1,5.89,0.02,ND,,Y
-Furnish and Brown (1986),gas gun,4/5*,Steady Shock,11.16,0.04,4.47,0.02,168,1,5.6,0.02,ND,,Y
-Furnish and Brown (1986),gas gun,2/2*,Steady Shock,11.088,0.04,4.479,0.02,166.2,0.9,5.61,0.02,ND,,Y
-This Study,Z,3101-N07,Z Temperature Configuration,13.48,0.13,6.12,0.03,276,3,6.13,0.07,7238,250,N
-This Study,Z,3101-S07,Z Temperature Configuration,14.13,0.15,6.56,0.06,310,5,6.25,0.08,8270,413,N
-This Study,Z,3201-S07,Z Temperature Configuration,20.09,0.18,10.76,0.06,724,7,7.22,0.1,25347,1156,N
-This Study,Z,3327-S07,Z Temperature Configuration,18.07,0.17,9.3,0.05,563,5,6.91,0.09,17886,761,N
-This Study,Z,3422-S01,Z Temperature Configuration,16.38,0.16,8.11,0.05,445,5,6.63,0.09,12653,388,N
-This Study,QMD,1,Calculation,10.919,0.01,4.229,0.004,160.65,0.28,5.50014,,2971,116,N
-This Study,QMD,2,Calculation,13.053,0.012,5.722,0.005,256.71,0.46,6,,6275,101,N
-This Study,QMD,3,Calculation,15.298,0.016,7.367,0.008,384.85,0.78,6.5,,10416,119,N
-This Study,QMD,4,Calculation,17.788,0.045,9.224,0.023,558.01,2.86,7,,17024,269,N
-This Study,QMD,5,Calculation,20.406,0.042,11.237,0.023,777.83,3.06,7.5,,26904,257,N
-This Study,QMD,6,Calculation,23.109,0.022,13.374,0.013,1046.71,2.12,8,,39475,160,N
-This Study,QMD,7,Calculation,26.007,0.057,15.696,0.034,1380.72,6.2,8.5,,55480,375,N
+﻿Study,Platform,Sample #,Experiment,Sample Us,Us err,Sample Up,Up err,Sample P,Sample P err,Density,rho err,Sample T,T err,Used in Us-up fit? (Y/N),
+This Study,Z,3327-S02,Stagnation,17.86,0.16,9.26,0.06,554,5,6.96,0.1,ND,,Y,
+This Study,Z,3327-S03,Stagnation,17.87,0.09,9.24,0.06,553,4,6.94,0.07,ND,,Y,
+This Study,Z,3327-S05,Stagnation,17.81,0.13,9.24,0.06,551,4,6.96,0.09,ND,,Y,
+This Study,Z,3327-S06,Stagnation,17.8,0.1,9.23,0.06,551,4,6.96,0.08,ND,,Y,
+This Study,Z,3101-N05,Steady Shock,13.32,0.27,5.93,0.06,265,3,6.05,0.15,ND,,Y,
+This Study,Z,3101-S03,Steady Shock,14.15,0.41,6.27,0.15,297,8,6.03,0.23,ND,,Y,
+This Study,Z,3172-N06,Steady Shock,16.62,0.16,8.22,0.06,457,4,6.63,0.1,ND,,Y,
+This Study,Z,3172-S06,Steady Shock,17.32,0.11,8.83,0.06,512,4,6.83,0.08,ND,,Y,
+This Study,Z,3201-N06,Steady Shock,18.91,0.1,9.84,0.07,623,5,6.99,0.09,ND,,Y,
+This Study,Z,3201-S06,Steady Shock,19.92,0.2,10.53,0.08,703,6,7.11,0.12,ND,,Y,
+This Study,Z,3327-S01,Steady Shock,18.03,0.09,9.24,0.06,558,4,6.88,0.07,ND,,Y,
+this Study,Z,3543-S01,Steady Shock,19.6,0.24,10.35,0.08,680,6,7.11,0.14,ND,,Y,
+This Study,Z,3543-S02,Steady Shock,19.5,0.24,10.4,0.08,679,7,7.18,0.15,ND,,Y,
+This Study,Z,3543-S07,Shock and release,20,0.4,10.72,0.12,717,11,7.24,0.21,25374,1229,Y,
+This Study,Omega EP,30744,Decaying shock,24.03,0.25,14,0.27,1125,23,8,0.26,ND,,Y,
+This Study,Omega EP,30747,Decaying shock,26.97,0.12,16.1,0.14,1454,14,8.3,0.13,ND,,Y,
+This Study,Omega EP,30750,Decaying shock,16.85,0.09,8.6,0.08,485,5,6.84,0.08,ND,,Y,
+This Study,Omega EP,30753,Decaying shock,16.15,0.09,7.9,0.08,427,5,6.56,0.08,ND,,Y,
+This Study,Omega EP,31844,Decaying shock,25.16,0.11,14.4,0.12,1217,11,7.86,0.11,ND,,Y,
+This Study,Omega EP,31849,Decaying shock,21.16,0.1,11.5,0.1,816,8,7.35,0.09,ND,,Y,
+This Study,Omega EP,31854,Decaying shock,19.35,0.09,10.1,0.1,658,7,7.04,0.09,ND,,Y,
+This Study,Omega EP,31859,Decaying shock,22.08,0.1,12.1,0.11,894,9,7.4,0.1,ND,,Y,
+Luo et al (2004),gas gun,245,Steady Shock,11.46,0.16,4.89,0.15,188,6,5.86,0.15,ND,,Y,
+Furnish and Brown (1986),gas gun,2/1A,Steady Shock,11.63,0.02,4.97,0.02,193,1,5.84,0.02,ND,,Y,
+Furnish and Brown (1986),gas gun,1/1*,Steady Shock,11.53,0.02,4.98,0.02,192,1,5.89,0.02,ND,,Y,
+Furnish and Brown (1986),gas gun,4/5*,Steady Shock,11.16,0.04,4.47,0.02,168,1,5.6,0.02,ND,,Y,
+Furnish and Brown (1986),gas gun,2/2*,Steady Shock,11.088,0.04,4.479,0.02,166.2,0.9,5.61,0.02,ND,,Y,
+This Study,Z,3543-S07,Shock and release,20,0.4,10.72,0.12,717,11,7.24,0.21,25374,1229,Y,**In here twice for fitting different things
+This Study,Z,3101-N07,Z Temperature Configuration,13.48,0.13,6.12,0.03,276,3,6.13,0.07,7238,250,N,
+This Study,Z,3101-S07,Z Temperature Configuration,14.13,0.15,6.56,0.06,310,5,6.25,0.08,8270,413,N,
+This Study,Z,3201-S07,Z Temperature Configuration,20.09,0.18,10.76,0.06,724,7,7.22,0.1,25347,1156,N,
+This Study,Z,3327-S07,Z Temperature Configuration,18.07,0.17,9.3,0.05,563,5,6.91,0.09,17886,761,N,
+This Study,Z,3422-S01,Z Temperature Configuration,16.38,0.16,8.11,0.05,445,5,6.63,0.09,12653,388,N,
+This Study,QMD,1,Calculation,10.919,0.01,4.229,0.004,160.65,0.28,5.50014,,2971,116,N,
+This Study,QMD,2,Calculation,13.053,0.012,5.722,0.005,256.71,0.46,6,,6275,101,N,
+This Study,QMD,3,Calculation,15.298,0.016,7.367,0.008,384.85,0.78,6.5,,10416,119,N,
+This Study,QMD,4,Calculation,17.788,0.045,9.224,0.023,558.01,2.86,7,,17024,269,N,
+This Study,QMD,5,Calculation,20.406,0.042,11.237,0.023,777.83,3.06,7.5,,26904,257,N,
+This Study,QMD,6,Calculation,23.109,0.022,13.374,0.013,1046.71,2.12,8,,39475,160,N,
+This Study,QMD,7,Calculation,26.007,0.057,15.696,0.034,1380.72,6.2,8.5,,55480,375,N,
