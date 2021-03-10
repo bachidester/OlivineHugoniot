@@ -24,4 +24,5 @@ SupplementalTable_6 - Covariance matrix for the Reflectivity-Us fit.
 
 SupplementalTable_7 - Covariance matrix for the Temperature-Us fit.
 
+SupplementalTable_8 - Comparison between different DFTMD configurations. Statistical uncertainties are given at the $1\sigma$ confidence interval.
 
