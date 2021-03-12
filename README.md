@@ -6,6 +6,8 @@ These jupyter notebooks illustrate data fitting and error propogation for the pr
 
 "Olivine data analysis" uses Monte Carlo methods to fit Us-up and T-Us data on the principal olivine Hugoniot. The data used in these fits is provided in SuppDataforCalcs.csv.
 
+"Impedance Match to Al Flyer" provides the routine for impedance matching to an Al (6061 T-06) flyer plate to determine the shock state of the sample. 
+
 "Predictive Impedance Match Calculation" uses the Us-up fit of olivine from 'Olivine data analysis" with the known equations of state of aluminum and quartz to calculate the shock state of sample stacks for a given flyer velocity on the Z Machine.
 
 The supplemental tables for this paper are also included.
