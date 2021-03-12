@@ -1,20 +1,5 @@
-﻿Covariance matrix for the quadratic Us-up fit,,,,,
-,alpha,beta,gamma,,
-alpha,6.73E-03,-2.07E-03,1.33E-04,,
-beta,-2.07E-03,1.35E-03,-5.81E-05,,
-gamma,1.33E-04,-5.81E-05,3.06E-06,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
+﻿Covariance matrix for the quadratic Us-up fit,,,
+,alpha,beta,gamma
+alpha,7.20E-03,-2.26E-03,1.44E-04
+beta,-2.26E-03,1.40E-03,-6.13E-05
+gamma,1.44E-04,-6.13E-05,3.27E-06

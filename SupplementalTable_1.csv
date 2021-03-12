@@ -1,18 +1,18 @@
 ﻿Impedance match data for olivine,,,,,,,,,,,,,,,,,,,,
 Study,Platform,Sample #,Experiment,Flyer,Flyer Velocity,Flyer Vel err,IM Standard,IM Standard Us,Standard Us err,Sample Us,Us err,Sample Up,Up err,Sample P,Sample P err,Density,rho err,Sample T,T err,Used in Us-up fit? (Y/N)
-This Study,Z,3327-S02,Stagnation,Al,20.10,0.02,Al,20.10,0.02,17.86,0.16,9.26,0.06,554,5,6.96,0.10,ND,,Y
-This Study,Z,3327-S03,Stagnation,Al,20.07,0.03,Al,20.07,0.03,17.87,0.09,9.24,0.06,553,4,6.94,0.07,ND,,Y
-This Study,Z,3327-S05,Stagnation,Al,20.05,0.04,Al,20.05,0.04,17.81,0.13,9.24,0.06,551,4,6.96,0.09,ND,,Y
-This Study,Z,3327-S06,Stagnation,Al,20.04,0.02,Al,20.04,0.02,17.80,0.10,9.23,0.06,551,4,6.96,0.08,ND,,Y
-This Study,Z,3101-N05,Steady Shock,Al,12.80,0.01,Al,12.80,0.01,13.32,0.27,5.93,0.06,265,3,6.05,0.15,ND,,Y
-This Study,Z,3101-S03,Steady Shock,Al,13.78,0.02,Al,13.78,0.02,13.97,0.31,6.37,0.07,298,4,6.17,0.17,ND,,Y
-This Study,Z,3172-N06,Steady Shock,Al,17.880,0.004,Al,17.880,0.004,16.62,0.16,8.22,0.06,457,4,6.63,0.10,ND,,Y
-This Study,Z,3172-S06,Steady Shock,Al,19.17,0.05,Al,19.17,0.05,17.32,0.11,8.83,0.06,512,4,6.83,0.08,ND,,Y
-This Study,Z,3201-N06,Steady Shock,Al,21.46,0.07,Al,21.46,0.07,18.91,0.10,9.84,0.07,623,5,6.99,0.09,ND,,Y
-This Study,Z,3201-S06,Steady Shock,Al,23.01,0.05,Al,23.01,0.05,19.92,0.20,10.53,0.08,703,6,7.11,0.12,ND,,Y
-This Study,Z,3327-S01,Steady Shock,Al,20.14,0.03,Al,20.14,0.03,18.03,0.09,9.24,0.06,558,4,6.88,0.07,ND,,Y
-this Study,Z,3543-S01,Steady Shock,Al,22.60,0.03,Al,22.60,0.03,19.60,0.24,10.35,0.08,680,6,7.11,0.14,ND,,Y
-This Study,Z,3543-S02,Steady Shock,Al,22.63,0.01,Al,22.63,0.01,19.50,0.24,10.40,0.08,679,7,7.18,0.15,ND,,Y
+This Study,Z,3327-S02,Stagnation,Al,20.1,0.02,Al,20.1,0.02,17.86,0.16,9.31,0.06,557,5,7.00,0.11,ND,,Y
+This Study,Z,3327-S03,Stagnation,Al,20.07,0.03,Al,20.07,0.03,17.87,0.09,9.29,0.06,556,4,6.98,0.07,ND,,Y
+This Study,Z,3327-S05,Stagnation,Al,20.05,0.04,Al,20.05,0.04,17.81,0.13,9.30,0.06,555,4,7.01,0.09,ND,,Y
+This Study,Z,3327-S06,Stagnation,Al,20.04,0.02,Al,20.04,0.02,17.80,0.10,9.29,0.06,554,4,7.01,0.08,ND,,Y
+This Study,Z,3101-N05,Steady Shock,Al,12.8,0.01,Al,12.8,0.01,13.32,0.27,5.97,0.06,266,3,6.07,0.15,ND,,Y
+This Study,Z,3101-S03,Steady Shock,Al,13.78,0.02,Al,13.78,0.02,13.97,0.31,6.41,0.07,300,4,6.20,0.17,ND,,Y
+This Study,Z,3172-N06,Steady Shock,Al,17.88,0.004,Al,17.88,0.004,16.62,0.16,8.27,0.06,460,4,6.67,0.10,ND,,Y
+This Study,Z,3172-S06,Steady Shock,Al,19.17,0.05,Al,19.17,0.05,17.32,0.11,8.88,0.06,515,4,6.87,0.08,ND,,Y
+This Study,Z,3201-N06,Steady Shock,Al,21.46,0.07,Al,21.46,0.07,18.91,0.10,9.89,0.07,627,5,7.03,0.08,ND,,Y
+This Study,Z,3201-S06,Steady Shock,Al,23.01,0.05,Al,23.01,0.05,19.92,0.20,10.60,0.08,707,6,7.16,0.13,ND,,Y
+This Study,Z,3327-S01,Steady Shock,Al,20.14,0.03,Al,20.14,0.03,18.03,0.09,9.30,0.06,562,4,6.92,0.07,ND,,Y
+this Study,Z,3543-S01,Steady Shock,Al,22.6,0.03,Al,22.6,0.03,19.60,0.24,10.42,0.08,684,7,7.16,0.15,ND,,Y
+This Study,Z,3543-S02,Steady Shock,Al,22.63,0.01,Al,22.63,0.01,19.50,0.24,10.46,0.08,683,7,7.23,0.16,ND,,Y
 This Study,Omega EP,30744,Decaying shock,NA,-,-,Quartz,24.15,0.29,24.25,0.26,13.9,0.27,1133,24,7.88,0.26,ND,,Y
 This Study,Omega EP,30747,Decaying shock,NA,-,-,Quartz,27.06,0.14,27.16,0.14,16.1,0.14,1465,15,8.23,0.13,ND,,Y
 This Study,Omega EP,30750,Decaying shock,NA,-,-,Quartz,16.61,0.1,16.95,0.09,8.6,0.09,488,5,6.79,0.09,ND,,Y
@@ -23,16 +23,16 @@ This Study,Omega EP,31854,Decaying shock,NA,-,-,Quartz,19.14,0.1,19.41,0.09,10.3
 This Study,Omega EP,31859,Decaying shock,NA,-,-,Quartz,21.68,0.11,22.08,0.1,12.1,0.11,894,9,7.4,0.1,ND,,Y
 Luo et al (2004),gas gun,245,Steady Shock,Ta,6.82,not reported,Ta,6.82,not reported,11.46,0.16,4.89,0.15,188,6,5.86,0.15,4810,70,Y
 Furnish and Brown (1986),gas gun,2/1A,Steady Shock,Ta,6.893,0.007,Ta,6.893,0.007,11.63,0.02,4.97,0.02,193,1,5.84,0.02,ND,,Y
-Furnish and Brown (1986),gas gun,1/1,Steady Shock,Ta,6.893,0.007,Ta,6.893,0.007,11.53,0.02,4.98,0.02,192,1,5.89,0.02,ND,,Y
-Furnish and Brown (1986),gas gun,4/5,Steady Shock,Ta,6.21,0.006,Ta,6.21,0.006,11.16,0.04,4.47,0.02,168,1,5.60,0.02,ND,,Y
-Furnish and Brown (1986),gas gun,2/2,Steady Shock,Ta,6.21,0.006,Ta,6.21,0.006,11.088,0.04,4.479,0.02,166.2,0.9,5.61,0.02,ND,,Y
-This Study,Z,3543-S07,Shock and release,Al,22.69,0.05,Quartz,19.71,0.11,20.0,0.4,10.72,0.12,717,11,7.24,0.21,25374,1229,Y
-This Study,Z,3101-N07,Z Temperature Configuration,Al,12.83,0.02,Quartz†,12.78,0.04,13.48,0.13,6.12,0.03,276,3,6.13,0.07,7238,250,N
-This Study,Z,3101-S07,Z Temperature Configuration,Al,13.81,0.12,Quartz†,13.48,0.09,14.13,0.15,6.56,0.06,310,5,6.25,0.08,8270,413,N
-This Study,Z,3172-S07,Z Temperature Configuration,Al,19.201,0.003,Quartz†,17.18,0.05,17.59,0.16,8.96,0.04,528,5,6.83,0.09,ND,ND,N
-This Study,Z,3201-S07,Z Temperature Configuration,Al,23.18,0.05,Quartz†,19.77,0.07,20.09,0.18,10.76,0.06,724,7,7.22,0.10,25347,1156,N
-This Study,Z,3327-S07,Z Temperature Configuration,Al,19.96,0.04,Quartz†,17.68,0.06,18.07,0.17,9.30,0.05,563,5,6.91,0.09,17886,761,N
-This Study,Z,3422-S01,Z Temperature Configuration,Al,17.29,0.06,Quartz†,15.90,0.06,16.38,0.16,8.11,0.05,445,5,6.63,0.09,12653,388,N
+Furnish and Brown (1986),gas gun,1-Jan,Steady Shock,Ta,6.893,0.007,Ta,6.893,0.007,11.53,0.02,4.98,0.02,192,1,5.89,0.02,ND,,Y
+Furnish and Brown (1986),gas gun,5-Apr,Steady Shock,Ta,6.21,0.006,Ta,6.21,0.006,11.16,0.04,4.47,0.02,168,1,5.6,0.02,ND,,Y
+Furnish and Brown (1986),gas gun,2-Feb,Steady Shock,Ta,6.21,0.006,Ta,6.21,0.006,11.088,0.04,4.479,0.02,166.2,0.9,5.61,0.02,ND,,Y
+This Study,Z,3543-S07,Shock and release,Al,22.69,0.05,Quartz,19.71,0.11,20,0.4,10.72,0.12,717,11,7.24,0.21,25374,1229,Y
+This Study,Z,3101-N07,Z Temperature Configuration,Al,12.83,0.02,Quartz†,12.83,0.04,13.52,0.13,6.15,0.03,278,3,6.14,0.07,7238,250,N
+This Study,Z,3101-S07,Z Temperature Configuration,Al,13.81,0.12,Quartz†,13.53,0.09,14.17,0.16,6.59,0.06,313,5,6.26,0.08,8270,413,N
+This Study,Z,3172-S07,Z Temperature Configuration,Al,19.201,0.003,Quartz†,17.24,0.05,17.65,0.16,9.00,0.04,532,5,6.84,0.09,ND,ND,N
+This Study,Z,3201-S07,Z Temperature Configuration,Al,23.18,0.05,Quartz†,19.83,0.07,20.15,0.18,10.81,0.06,729,7,7.22,0.10,25347,1156,N
+This Study,Z,3327-S07,Z Temperature Configuration,Al,19.96,0.04,Quartz†,17.74,0.06,18.13,0.17,9.34,0.05,567,5,6.91,0.09,17886,761,N
+This Study,Z,3422-S01,Z Temperature Configuration,Al,17.29,0.06,Quartz†,15.95,0.06,16.43,0.16,8.14,0.05,448,5,6.64,0.09,12653,388,N
 This Study,DFTMD,1,Calculation,,,,,,,10.916,0.011,4.227,0.004,160.6,0.3,5.5,,2966,118.5,N
 This Study,DFTMD,2,Calculation,,,,,,,13.046,0.013,5.718,0.006,256.4,0.5,6,,6297,105,N
 This Study,DFTMD,3,Calculation,,,,,,,15.297,0.015,7.367,0.008,384.9,0.8,6.5,,10424,110,N
@@ -43,11 +43,11 @@ This Study,DFTMD,7,Calculation,,,,,,,25.967,0.027,15.673,0.016,1376.2,2.8,8.5,,5
 This Study,DFTMD,8,Calculation,,,,,,,28.956,0.021,18.114,0.013,1772.6,2.6,9,,73007,165.2,N
 This Study,"Omega EP, eta 1.67",30744,Decaying shock,,,,,24.15,0.29,23.84,0.26,14.03,0.28,1120,23,8.14,0.28,,,N
 This Study,"Omega EP, eta 1.67",30747,Decaying shock,,,,,26.91,0.14,26.43,0.18,16.11,0.14,1426,15,8.58,0.17,,,N
-This Study,"Omega EP, eta 1.67",30750,Decaying shock,,,,,16.60,0.10,16.68,0.09,8.63,0.09,482,5,6.94,0.10,,,N
+This Study,"Omega EP, eta 1.67",30750,Decaying shock,,,,,16.6,0.1,16.68,0.09,8.63,0.09,482,5,6.94,0.1,,,N
 This Study,"Omega EP, eta 1.67",30753,Decaying shock,,,,,15.59,0.09,15.85,0.09,7.94,0.08,422,5,6.71,0.08,,,N
 This Study,"Omega EP, eta 1.67",31844,Decaying shock,,,,,24.86,0.12,24.72,0.11,14.52,0.12,1202,11,8.12,0.12,,,N
-This Study,"Omega EP, eta 1.67",31849,Decaying shock,,,,,20.83,0.10,20.81,0.09,11.56,0.10,806,7,7.54,0.10,,,N
-This Study,"Omega EP, eta 1.67",31854,Decaying shock,,,,,18.86,0.11,19.03,0.09,10.14,0.10,647,7,7.17,0.10,,,N
+This Study,"Omega EP, eta 1.67",31849,Decaying shock,,,,,20.83,0.1,20.81,0.09,11.56,0.1,806,7,7.54,0.1,,,N
+This Study,"Omega EP, eta 1.67",31854,Decaying shock,,,,,18.86,0.11,19.03,0.09,10.14,0.1,647,7,7.17,0.1,,,N
 This Study,"Omega EP, eta 1.67",31859,Decaying shock,,,,,21.67,0.12,21.58,0.1,12.18,0.11,880,9,7.69,0.11,,,N
 ,,,,,,,,,,,,,,,,,,,,
 "† Quartz and olivine Us-up were calculated using known equations of state. For this reason, these data are not used in the Us-up fit.",,,,,,,,,,,,,,,,,,,,
